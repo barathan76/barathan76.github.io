@@ -1,1 +1,3 @@
-#My Sample portfolio at initial Development
+#Hello there
+I am Barathan K.Take a look at my cool portfolio.
+
