@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #00ffbb;
+  color: #009dff;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -28,7 +28,7 @@ a:hover {
 }
 
 .color-a {
-  color: #00ffbb;
+  color: #000000;
 }
 
 .color-d {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #00ffbb;
+  background-color: #424242;
 }
 
 .overlay-mf {
@@ -296,7 +296,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #00ffbb;
+  background-color: #000000;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -315,7 +315,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #00ffbb;
+  background: #000000;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -353,7 +353,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #00ffbb;
+  border-top: 6px solid #c17174;
   border-radius: 50%;
   width: 60px;
   height: 60px;
