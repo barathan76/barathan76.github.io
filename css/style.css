@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: #00ffbb;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -30,7 +30,7 @@ a:hover {
 }
 
 .color-a {
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .color-d {
@@ -81,7 +81,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #00ffbb;
 }
 
 .overlay-mf {
@@ -151,7 +151,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #00ffbb;
   margin: 0 auto;
 }
 
@@ -170,7 +170,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #00ffbb;
   width: 100px;
   bottom: -12px;
 }
@@ -207,12 +207,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #00ffbb;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #00ffbb;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -237,7 +237,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #00ffbb;
   margin-right: 10px;
 }
 
@@ -251,7 +251,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #00ffbb;
   display: block;
 }
 
@@ -298,7 +298,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #00ffbb;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -317,7 +317,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: #00ffbb;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -355,7 +355,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid #00ffbb;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -472,26 +472,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: #00ffbb;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -523,13 +523,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #0078ff;
+  background-color: #00ffbb;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #0078ff;
+  background-color: #00ffbb;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -643,7 +643,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #00ffbb;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -688,7 +688,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #00ffbb;
 }
 
 /*======================================
@@ -1056,27 +1056,7 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*======================================
-//--//-->   FOOTER
-======================================*/
 
-footer {
-  text-align: center;
-  color: #fff;
-  padding-bottom: 4rem;
-}
-
-footer .copyright {
-  margin-bottom: .3rem;
-}
-
-footer .credits {
-  margin-bottom: 0;
-}
-
-footer .credits a {
-  color: #fff;
-}
 
 /*======================================
 //--//-->   CONtaCT FORM
@@ -1141,13 +1121,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #02d9ff;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #0078ff;
+  background-color: #0cdbdb;
   color: #fff;
   border-color: #cde1f8;
 }
