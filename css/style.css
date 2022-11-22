@@ -961,6 +961,9 @@ a:hover {
 }
 
 @media (min-width: 767px) {
+.project-container {
+width: 17.875rem;
+}
   .about-mf .box-pl2 {
     margin-top: 3rem;
     padding-left: 0rem;
@@ -1034,7 +1037,7 @@ a:hover {
 }
 
 .projects-container {
-  flex-direction: column;
+  flex-direction: row;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1073,13 +1076,6 @@ a:hover {
     padding: 0 8rem;
   }
 }
-@media screen and (max-width : 420px)
-{
-.project-container {
-width: 17.875rem;
-}
-}
-
 
 @media (min-width: 1200px) {
   .testimonial-box .description {
@@ -1091,4 +1087,7 @@ width: 17.875rem;
   .back-to-top {
     bottom: 15px;
   }
+  .projects-container {
+flex-direction: column
+}
 }
